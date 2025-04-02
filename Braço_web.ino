@@ -2,8 +2,8 @@
 #include <ESP8266WebServer.h>
 #include <Servo.h>
 
-const char* ssid = "Lnd";  // Substitua pelo nome da sua rede Wi-Fi
-const char* password = "123456789";  // Substitua pela senha da sua rede Wi-Fi
+const char* ssid = "Nome_rede";  // Substitua pelo nome da sua rede Wi-Fi
+const char* password = "senha_rede";  // Substitua pela senha da sua rede Wi-Fi
 
 ESP8266WebServer server(80);  // Cria um servidor web na porta 80
 
