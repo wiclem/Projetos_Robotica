@@ -1,2 +1,2 @@
 # Projetos_Robotica
-Repositório onde jogos todos os códigos de robótica já desenvolvidos  
+Repositório para códigos de robótica já desenvolvidos  
